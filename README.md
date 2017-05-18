@@ -1,9 +1,9 @@
-# eslint-config-node
+# eslint-config-devsu
 Devsu's ESLint shareable configs.
 
 ## Usage
 
-Add `eslint` and `eslint-config-devsu-node` to `devDependencies` in your `package.json`:
+Add `eslint` and `eslint-config-devsu` to `devDependencies` in your `package.json`:
 
 ```
 npm install --save-dev eslint eslint-config-devsu
