@@ -1,0 +1,28 @@
+{
+  "name": "eslint-config-devsu",
+  "version": "0.0.1",
+  "description": "Devsu ESLint shareable configuration for Node and React",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/devsu/eslint-config-devsu/"
+  },
+  "keywords": [
+    "eslint",
+    "eslint-config",
+    "devsu",
+    "eslint-devsu",
+    "eslint-config-devsu",
+    "eslint-react",
+    "eslint-node"
+  ],
+  "author": "Devsu",
+  "license": "MIT",
+  "dependencies": {
+    "eslint-config-devsu-node": "0.0.3",
+    "eslint-config-react-app": "^0.6.2"
+  },
+  "peerDependencies": {
+    "eslint": ">= 3"
+  }
+}
