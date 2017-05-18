@@ -19,7 +19,6 @@
   "author": "Devsu",
   "license": "MIT",
   "dependencies": {
-    "eslint-config-devsu-node": "0.0.3",
     "eslint-config-react-app": "^0.6.2"
   },
   "peerDependencies": {
