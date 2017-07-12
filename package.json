@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-devsu",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Devsu ESLint shareable configuration for JS apps",
   "main": "index.js",
   "repository": {
@@ -19,7 +19,7 @@
   "author": "Devsu",
   "license": "MIT",
   "dependencies": {
-    "eslint-config-react-app": "^0.6.2"
+    "eslint-config-react-app": "^1.0.5"
   },
   "peerDependencies": {
     "eslint": ">= 4"
